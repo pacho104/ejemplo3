@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f52579b-50ea-4058-8be7-0d3f3d41c3fa" name="Default" comment="hola">
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ejemplo3\resources\views\hola.blade.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ejemplo3.iws" />
@@ -287,7 +286,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436454690255</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hola">
+      <created>1436455070397</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1436455070397</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
